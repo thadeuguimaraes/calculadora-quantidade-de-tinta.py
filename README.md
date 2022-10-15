@@ -1,0 +1,1 @@
+Nesse projeto foi desenvolvido um script python para cirar uma calculadora para determinar a quantidade de tinta que será usada em determinda ocasião de um suposta manutenção.
